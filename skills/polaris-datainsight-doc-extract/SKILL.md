@@ -1,7 +1,7 @@
 ---
 name: polaris-datainsight-doc-extract
 description: Extract structured data from Office documents (DOCX, PPTX, XLSX, HWP, HWPX) using the Polaris AI DataInsight Doc Extract API. Use when the user wants to parse, analyze, or extract text, tables, charts, images, or shapes from document files. Invoke this skill whenever the user mentions extracting content from Word, PowerPoint, Excel, HWP, or HWPX files, wants to parse document structure, needs to convert document data for RAG pipelines, or asks about reading tables, charts, or text from Office-format documents — even if they don't explicitly mention "DataInsight" or "Polaris".
-license: Apache-2.0
+license: Apache-2.0 (for skill definition); Service usage subject to Polaris AI DataInsight Terms of Service.
 ---
 
 # Polaris AI DataInsight — Doc Extract Skill
